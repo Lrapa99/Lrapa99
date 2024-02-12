@@ -1,4 +1,4 @@
-# ¡Hola, Soy Luis Rapalino 👋
+# ¡Hola! 👋
 
 💻 Desarrollador Web Full Stack | Amante del código y los libros 📚
 
