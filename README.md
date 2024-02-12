@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-💻 Desarrollador Web Full Stack | Amante del código y los libros 📚
+💻 Web Developer | Amante del código y los libros 📚
 
 🔧 Tech Stack: HTML, CSS, JS, React, Vue, Node.js, .Net , PHP...
 
