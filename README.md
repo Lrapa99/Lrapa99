@@ -8,8 +8,6 @@
 
 📐 Frameworks CSS: Bootstrap, Tailwind CSS...
 
-💼 Trabajando en Helexium | Creando cosas geniales y sumergiéndome en líneas de código.
-
 📖 Apasionado por la lectura y el diseño de interfaces | Transformando ideas en experiencias visuales cautivadoras.
 
 🎓 Profesor ocasional | Compartiendo mi amor por el código y la tecnología.
